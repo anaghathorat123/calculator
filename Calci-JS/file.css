@@ -1,0 +1,36 @@
+.container
+{
+    height: 380px;
+    width: 300px;
+    background-color : rgb(64, 60, 60);
+    margin-left :auto;
+    margin-right: auto;
+    margin-top : 150px;
+    padding : 10px;
+    border-radius : 12px;
+}
+
+.screen
+{
+    height : 35px;
+    width : 280px;
+    margin-top : 25px;
+    background-color :rgb(189, 255, 233);
+    font-size: 30px;
+}
+
+.butn-row
+{
+    display : flex;
+    justify-content : space-evenly;  
+}
+
+.butn
+{
+    font-size: 30px;
+    margin-top: 30px;
+    height : 45px;
+    width : 45px;
+    border-radius : 50%;
+    background-color: rgb(183, 167, 167);
+}
